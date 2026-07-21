@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+*firebase-adminsdk*.json
+*service-account*.json
+*api-key*.txt
+pglite-debug.log
+firebase-debug.log

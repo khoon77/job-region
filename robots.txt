@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khoon77.github.io/job-region/sitemap.xml
